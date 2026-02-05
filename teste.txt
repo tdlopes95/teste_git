@@ -1,1 +1,8 @@
+
 'desta vai ter conflito' 
+
+as duas ficam bem!!
+
+'este e a minha primeira nova linha com conflito?' 
+'nova linha' 
+
