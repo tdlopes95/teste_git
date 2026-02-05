@@ -1,1 +1,1 @@
-'Este ‚ a minha primeira linha' 
+'este e a minha primeira nova linha com conflito?' 
