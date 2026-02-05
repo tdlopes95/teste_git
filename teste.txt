@@ -1,1 +1,1 @@
-'altera‡ao primeira linha' 
+'desta vai ter conflito' 
